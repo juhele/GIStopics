@@ -8,6 +8,13 @@
 
 ### Simulated flight path generator
 
+Brief description: use GPS (EPSG:4326) waypoint data roughly defining planned path and perform flight simulation - e.g.:
+
+- generate route points according to time / speed preset
+
+- add some flight inaccuracy (the flight path is never straight)
+
+todo: add more detailed description
 
 
 ### Dosimeter pickup plugin for QGIS
@@ -39,3 +46,6 @@ So someone takes a car, picks up all the dosimeters and takes them in a lab to b
 However we do not know how big was the part of the dose obtained during the transport - which may not be negligible for emergency situations and is different for each of the dosimeters:
 
 ![Alt text](img_dosimeter_pickup/dosimeter_pickup_schema_002_dose_res.png "dosimeter pickup scheme")
+
+todo:
+add data and more details
