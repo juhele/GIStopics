@@ -12,6 +12,10 @@
 
 **Dosimeter pickup plugin for QGIS**
 
+*Requirements*
+- QGIS 3.x plugin
+- use UTF-8 CR-LF encoding for text outputs for full Windows/Unix compatibility
+
 *Introduction*
 
 The territorial network of thermoluminescent dosimeters (TLD) is a part of the Czech Radiation Monitoring Network. Consists of 180 points with dosimeters - some outdoors, some in buildings.
