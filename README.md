@@ -27,6 +27,8 @@ Brief description: use GPS (EPSG:4326) waypoint data roughly defining planned pa
 
 - include flying out of the monitoring area when turning from one monitoring line to other
 
+![Alt text](img_flight_path_generator/heli_flight_1_plan.png "flight plan with waypoints")
+
 Check DEMO Airborne gammaspectrometric data "Uluru" for details:
 https://github.com/juhele/opengeodata/tree/master/Airborne_gammaspectrometry_demo_data
 
@@ -63,7 +65,7 @@ So someone takes a car, picks up all the dosimeters and takes them in a lab to b
 
 However we do not know how big was the part of the dose obtained during the transport - which may not be negligible for emergency situations and is different for each of the dosimeters:
 
-![Alt text](img_dosimeter_pickup/dosimeter_pickup_schema_002_dose_res.png "dosimeter pickup scheme")
+![Alt text](img_dosimeter_pickup/dosimeter_pickup_schema_002_dose_res.png "dosimeter pickup - dose calculation")
 
 todo:
 add data and more details
