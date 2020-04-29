@@ -30,3 +30,4 @@ https://www.suro.cz/cz/rms/tld/sit-termoluminiscencnich-dozimetru-tld-sit
 
 *Problem to solve*
 
+![Alt text](img_dosimeter_pickup/dosimeter_pickup_schema_001_route.png?raw=true "dosimeter pickup scheme")
