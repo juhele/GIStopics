@@ -4,13 +4,13 @@
 - optimally platform independent solution (Windows / Linux)
 - final code released as open-source
 
-**Available topics**
+## Available topics
 
-**Simulated flight path generator**
+### Simulated flight path generator
 
 
 
-**Dosimeter pickup plugin for QGIS**
+### Dosimeter pickup plugin for QGIS
 
 *Requirements*
 - QGIS 3.x plugin
