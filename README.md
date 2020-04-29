@@ -30,4 +30,8 @@ https://www.suro.cz/cz/rms/tld/sit-termoluminiscencnich-dozimetru-tld-sit
 
 *Problem to solve*
 
+As described above, the dosimeters are placed in various locations (e.g. input dataset with static locations and ID / name). The dosimeters are replaced with "new" ones from time to time and in case of some emergency it is planned to perform such replacement more often (the time interval is not important for this task).
+
+So you take a car, pick up all the dosimeters and take them in a lab to be analysed to get the dose values for each one. 
+
 ![Alt text](img_dosimeter_pickup/dosimeter_pickup_schema_001_route_res.png "dosimeter pickup scheme")
