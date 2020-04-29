@@ -10,11 +10,20 @@
 
 Brief description: use GPS (EPSG:4326) waypoint data roughly defining planned path and perform flight simulation - e.g.:
 
-- generate route points according to time / speed preset
+- generate route points according to time / speed preset - there is constant time interval between points (usually 1 second), and there is planned speed like 100 km/h but the speed is not constant in real condition and is lower especially in the turns 
 
 - add some flight inaccuracy (the flight path is never straight)
 
-todo: add more detailed description
+- calculate additional parameters like GPS heading, 
+
+- include flying out of the monitoring area when turning from one monitoring line to other
+
+Check DEMO Airborne gammaspectrometric data "Uluru" for details:
+https://github.com/juhele/opengeodata/tree/master/Airborne_gammaspectrometry_demo_data
+
+- contains both flight plan data and real flight path
+
+todo: add more detailed description + images
 
 
 ### Dosimeter pickup plugin for QGIS
