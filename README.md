@@ -29,6 +29,8 @@ Brief description: use GPS (EPSG:4326) waypoint data roughly defining planned pa
 
 ![Alt text](img_flight_path_generator/heli_flight_1_plan.png "flight plan with waypoints")
 
+![Alt text](img_flight_path_generator/heli_flight_2_real_flight.png "flight plan with waypoints")
+
 Check DEMO Airborne gammaspectrometric data "Uluru" for details:
 https://github.com/juhele/opengeodata/tree/master/Airborne_gammaspectrometry_demo_data
 
