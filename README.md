@@ -10,6 +10,7 @@
 
 *Requirements*
 - no need for GUI, can be CLI (console) application or script
+- rather not Windows-only, but can be linux-only (possible to run using virtual machine)
 
 *Description*
 Brief description: use GPS (EPSG:4326) waypoint data roughly defining planned path and perform helicopter flight simulation - e.g.:
