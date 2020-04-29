@@ -14,10 +14,15 @@
 
 *Introduction*
 
-The territorial network of thermoluminescent dosemeters (TLD) (Figure 1) is one of the most important components of the Czech Radiation Monitoring Network
+The territorial network of thermoluminescent dosimeters (TLD) is a part of the Czech Radiation Monitoring Network. Consists of 180 points with dosimeters - some outdoors, some in buildings.
+
+In case of a normal radiation situation, the measurements are performed quarterly, in case of a radiation accident more often. The dosimeters are gradually collected by car and transported to the lab to get the results.
 
 details in English:
 https://www.suro.cz/en/rms/tld
 
 details in Czech:
 https://www.suro.cz/cz/rms/tld/sit-termoluminiscencnich-dozimetru-tld-sit
+
+*Problem to solve*
+
