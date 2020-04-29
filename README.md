@@ -6,7 +6,7 @@
 
 ## Available topics
 
-### Simulated flight path generator
+### 1) Simulated flight path generator
 
 *Requirements*
 
@@ -37,7 +37,7 @@ https://github.com/juhele/opengeodata/tree/master/Airborne_gammaspectrometry_dem
 todo: add more detailed description + images
 
 
-### Dosimeter pickup plugin for QGIS
+### 2) Dosimeter pickup plugin for QGIS
 
 *Requirements*
 - QGIS 3.x plugin
