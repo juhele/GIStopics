@@ -23,7 +23,7 @@ Brief description: use GPS (EPSG:4326) waypoint data roughly defining planned pa
 
 - add some flight inaccuracy (the flight path is never straight)
 
-- calculate additional parameters like GPS heading, 
+- calculate additional parameters like GPS heading, UTM coordinates - there seems to be a way to calculate appropriate UTM zone from lat / lon https://stackoverflow.com/questions/58828828/auto-detect-coordinate-reference-system-based-on-coordinates-in-gpx-file
 
 - include flying out of the monitoring area when turning from one monitoring line to other
 
