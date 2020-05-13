@@ -69,5 +69,14 @@ However we do not know how big was the part of the dose obtained during the tran
 
 ![Alt text](img_dosimeter_pickup/dosimeter_pickup_schema_002_dose_res.png "dosimeter pickup - dose calculation")
 
+**Task 1 - determine car stop at the pickup station**
+- measurement data contain GPS, dose rate values and time (mostly in GPS Epoch format)
+- input layer of stations is static
+- it is not always possible to park directly at the station, some detection algorithm needs to be implemented (it is possible to calculate speed or use station proximity...)
+
+**Task 2 - calculate the dose**
+- relatively easy ... dose in microSieverts is dose rate in microSieverts per hour multiplied by time in hours for particular interval (between two measurement points)
+- the dose for each dosimeter starts counting after pickup and ends with delivery - e.g. the time is not equal for the dosimeters (see pic above) 
+
 todo:
 add data and more details
