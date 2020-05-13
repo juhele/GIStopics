@@ -12,7 +12,7 @@
 
 - no need for GUI, can be CLI (console) application or script
 - rather not Windows-only, but can be linux-only (possible to run using virtual machine)
-- input - depends on developer, we can provide various formats...
+- input - depends on further discussion with the developer, we can provide various formats...
 - output can be just CSV
 
 *Description*
