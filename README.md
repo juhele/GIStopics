@@ -38,7 +38,7 @@ https://github.com/juhele/opengeodata/tree/master/Airborne_gammaspectrometry_dem
 
 **Available data**
 
-- we can provide several datasets with real flight paths and technical details about used helicopters
+- we can provide several datasets with real flight paths (GPS, speed, heading, altitude) and technical details about used helicopters
 
 
 ### 2) Dosimeter pickup plugin for QGIS
