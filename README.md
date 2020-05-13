@@ -79,6 +79,9 @@ However we do not know how big was the part of the dose obtained during the tran
 **Task 2 - calculate the dose**
 - relatively easy ... dose in microSieverts is dose rate in microSieverts per hour multiplied by time in hours for particular interval (between two measurement points)
 - the dose for each dosimeter starts counting after pickup and ends with delivery - e.g. the time is not equal for the dosimeters (see pic above) 
+- result can be some vector point layer (Shapefile, GeoPackage) with the calculated and measured data - all the auxiliary values can also be stored in the attribute table
 
-todo:
-add data and more details
+**Task 3 - generate text report**
+- simple text file is enough and universal for mailing or other processing
+- use UTF-8 CR-LF encoding for text outputs for full Windows/Unix compatibility
+- use some predefined description + add values for particular dosimeters - the dosimeter could have just some number and information about pickup station like "Dosimeter no.1, pickup station: Kutná Hora" where the number is automatically generated and pickup station name taken from the static station layer
