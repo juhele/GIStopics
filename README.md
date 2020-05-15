@@ -6,6 +6,14 @@
 
 ## Available topics
 
+
+### 0) Conversion of old pluging for QGIS2 to QGIS3
+
+Ground Radiation Monitoring QGIS Plugin
+https://ctu-geoforall-lab.github.io/qgis-ground-radiation-monitoring-plugin/
+
+
+
 ### 1) Simulated flight path generator
 
 *Requirements*
