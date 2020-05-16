@@ -29,7 +29,7 @@ https://ctu-geoforall-lab.github.io/qgis-radiation-reconnaissance-results-plugin
 
 Brief description: use GPS (EPSG:4326) waypoint data roughly defining planned path and perform helicopter flight simulation - e.g.:
 
-- generate route points according to time / speed preset - there is constant time interval between points (usually 1 second), and there is planned speed like 100 km/h but the speed is not constant in real condition and is lower especially in the turns 
+- generate route points according to time / speed preset - there is constant time interval between points (usually 1 second), and there is planned speed like 100 km/h but the speed is not constant in real condition and is lower especially in the turns (data for analyses will be released later) 
 
 - add some flight inaccuracy (the flight path is never straight)
 
