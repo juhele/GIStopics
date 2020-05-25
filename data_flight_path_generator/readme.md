@@ -20,4 +20,4 @@ Survey lines
 
 ![Alt text](preview1_Ranger_mine.jpg "flight plan with waypoints")
 
-![Alt text](preview1_Ranger_mine.jpg "flight plan with waypoints")
+![Alt text](preview2_Ranger_mine.jpg "flight plan with waypoints")
