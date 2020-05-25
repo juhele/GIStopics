@@ -28,8 +28,8 @@ Survey lines
 
 real flight path and polygon
 
-![Alt text](preview1_Ranger_mine.jpg "real flight path and polygon")
+![Alt text](preview1_Ranger_mine_flight1.jpg "real flight path and polygon")
 
 planned survey lines / planned flight path
 
-![Alt text](preview2_Ranger_mine.jpg "planned survey lines / planned flight path")
+![Alt text](preview2_Ranger_mine_flight1.jpg "planned survey lines / planned flight path")
