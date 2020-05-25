@@ -47,6 +47,10 @@ https://github.com/juhele/opengeodata/tree/master/Airborne_gammaspectrometry_dem
 
 - contains both flight plan data and real flight path
 
+*Why do wee need it?*
+
+We are able to simulate measured data but would be useful being able to generate custom and purely fictional monitoring paths - mainly for training purposes.
+
 **Available data**
 
 - we can provide several datasets with real flight paths (GPS, speed, heading, altitude) and technical details about used helicopters
