@@ -1,4 +1,4 @@
-About the data
+**About the data**
 
 The flight heights are real. The points were moved to other location but the dataset was not changed in other way (e.g. not rescaled, transformed etc.).
 The GPS altitude values were calculated using DEM-S dataset by Geoscience Australia:
