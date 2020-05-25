@@ -1,3 +1,11 @@
+About the data
+
+The flight heights are real. 
+The GPS altitude values were calculated using DEM-S dataset by Geoscience Australia:
+
+Gallant, J. 1, Wilson, N. 2, Dowling, T. 3, Read, A. 4, Inskeep, C. 5 2011. SRTM-derived 1 Second Digital Elevation Models Version 1.0. Record 1. Geoscience Australia, Canberra. 
+http://pid.geoscience.gov.au/dataset/ga/72759
+
 
 **01_Ranger_mine_Kakadu_NP_AUS_Mi-17_heli**
 
