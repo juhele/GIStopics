@@ -18,6 +18,10 @@ Survey lines
 - planned flight path
 - both line vector layer and file with node coordinates
 
-![Alt text](preview1_Ranger_mine.jpg "flight plan with waypoints")
+real flight path and polygon
 
-![Alt text](preview2_Ranger_mine.jpg "flight plan with waypoints")
+![Alt text](preview1_Ranger_mine.jpg "real flight path and polygon")
+
+planned survey lines / planned flight path
+
+![Alt text](preview2_Ranger_mine.jpg "planned survey lines / planned flight path")
