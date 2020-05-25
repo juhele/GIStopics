@@ -17,3 +17,7 @@ Polygon (monitoring area)
 Survey lines
 - planned flight path
 - both line vector layer and file with node coordinates
+
+![Alt text](preview1_Ranger_mine.jpg "flight plan with waypoints")
+
+![Alt text](preview1_Ranger_mine.jpg "flight plan with waypoints")
