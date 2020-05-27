@@ -15,7 +15,7 @@ support dataset - fictional airborne monitoring in Ranger Uranium Mine area:
 
 Source: https://en.wikipedia.org/wiki/Ranger_Uranium_Mine
 
-The flight path is real, but was moved to different location, date and time was changed.
+The flight path is real, but was moved to different location, date and time was changed (date set to 2001-04-01).
 
 This package contains support data for flight proposed "Simulated flight path generator" in standard formats (CSV, GeoPackage).
 
