@@ -34,6 +34,7 @@ planned survey lines / planned flight path
 
 ![Alt text](preview2_Ranger_mine_flight1.jpg "planned survey lines / planned flight path")
 
+**02_Valley_of_Fire_USA_Mi-17_heli**
 
 real flight path and polygon
 
