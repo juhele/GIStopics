@@ -36,6 +36,25 @@ planned survey lines / planned flight path
 
 **02_Valley_of_Fire_USA_Mi-17_heli**
 
+Fictional airborne monitoring in Valley of Fire State Park area:
+
+"Valley of Fire State Park is a public recreation and nature preservation area covering nearly 46,000 acres (19,000 ha) located 16 miles (26 km) south of Overton, Nevada.[3] The state park derives its name from red sandstone formations, the Aztec Sandstone, which formed from shifting sand dunes 150 million years ago.[4] These features, which are the centerpiece of the park's attractions, often appear to be on fire when reflecting the sun's rays.[5] It is Nevada's oldest state park, as commemorated with Nevada Historical Marker #150.[6] It was designated as a National Natural Landmark in 1968.[7]
+
+Valley of Fire is located 50 miles (80 km) northeast of Las Vegas, at an elevation between 1,320–3,009 feet (402–917 m).[4] It abuts the Lake Mead National Recreation Area on the east at the Virgin River confluence. It lies in a 4 by 6 mi (6.4 by 9.7 km) basin."
+
+Source: https://en.wikipedia.org/wiki/Valley_of_Fire_State_Park
+
+The flight path is real, but was moved to different location, date and time was changed.
+
+This package contains support data for flight proposed "Simulated flight path generator" in standard formats (CSV, GeoPackage).
+
+Polygon (monitoring area)
+- both polygon vector layer and file with corner coordinates
+
+Survey and tie lines
+- planned flight path
+- both line vector layer and file with node coordinates
+
 real flight path and polygon
 
 ![Alt text](preview1_Valley_of_Fire.jpg "real flight path and polygon")
