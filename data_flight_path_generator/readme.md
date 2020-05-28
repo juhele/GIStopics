@@ -44,7 +44,7 @@ Valley of Fire is located 50 miles (80 km) northeast of Las Vegas, at an elevati
 
 Source: https://en.wikipedia.org/wiki/Valley_of_Fire_State_Park
 
-The flight path is real, but was moved to different location, date and time was changed.
+The flight path is real, but was moved to different location, date and time was changed (date set to 2014-04-01)..
 
 This package contains support data for flight proposed "Simulated flight path generator" in standard formats (CSV, GeoPackage).
 
