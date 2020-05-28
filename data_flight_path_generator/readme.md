@@ -55,6 +55,11 @@ Survey and tie lines
 - planned flight path
 - both line vector layer and file with node coordinates
 
+The GPS altitude values were calculated using USGS 13 arc-second n37w115 1 x 1 degree dataset:
+
+U.S. Geological Survey, 20180724, USGS 13 arc-second n37w115 1 x 1 degree: U.S. Geological Survey.
+https://www.sciencebase.gov/catalog/item/5deb3274e4b02caea0f0e9a3
+
 real flight path and polygon
 
 ![Alt text](preview1_Valley_of_Fire.jpg "real flight path and polygon")
