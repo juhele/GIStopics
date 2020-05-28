@@ -32,4 +32,12 @@ real flight path and polygon
 
 planned survey lines / planned flight path
 
+![Alt text](preview2_Valley_of_Fire.jpg "planned survey lines / planned flight path")
+
+real flight path and polygon
+
+![Alt text](preview1_Valley_of_Fire.jpg "real flight path and polygon")
+
+planned survey lines / planned flight path
+
 ![Alt text](preview2_Ranger_mine_flight1.jpg "planned survey lines / planned flight path")
