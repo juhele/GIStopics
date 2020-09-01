@@ -125,6 +125,12 @@ Such system could be independent and usable almost everwhere (there are some res
 
 Data logging automatically after switching on: lat, lon, date, time, GPS epoch, number of satelites, HDOP. Format could be some sort of text file - for example CSV.
 
+*Requirements*
+
+- solution not requiring internet connection
+- not dependent on any paid / commercial software or 3rd party online service
+- device controls using hardware buttons / switches, not touch screen (we can provide some help in this area)
+
 *Possible use*
 
 Detailed radiation measurements, radon surveys, soil and other sampling. Sampling data can be later assigned to the coordinates based on time (written notes in protocols etc.) or visually in GIS software like QGIS.
