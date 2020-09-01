@@ -134,7 +134,8 @@ Data logging automatically after switching on: lat, lon, date, time, GPS epoch, 
 
 *Possible use*
 
-Detailed radiation measurements, radon surveys, soil and other sampling. Sampling data can be later assigned to the coordinates based on time (written notes in protocols etc.) or visually in GIS software like QGIS.
+Detailed radiation measurements, radon surveys, soil and other sampling. Everywhere where common GPS is not precise enough and geodetic GPS is too expensive or too complicated.
+Sampling data can be later assigned to the coordinates based on time (written notes in protocols etc.) or visually in GIS software like QGIS.
 
 *Information resources*
 
