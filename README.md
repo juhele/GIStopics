@@ -104,7 +104,7 @@ However we do not know how big was the part of the dose obtained during the tran
 ## Available topics - hardware related (not so much GIS)
 
 
-### 1) easy to use differential GPS system (dGPS/GNSS) for field workers
+### 3) easy to use differential GPS system (dGPS/GNSS) for field workers
 
 *Introduction*
 
