@@ -4,10 +4,10 @@
 - optimally platform independent solution (Windows / Linux)
 - final code released as open-source
 
-## Available topics
+## Available topics - sopftware related
 
 
-### 0) Conversion of old plugins for QGIS2 to QGIS3
+### 0) QGIS - Conversion of old plugins for QGIS2 to QGIS3
 
 Ground Radiation Monitoring QGIS Plugin
 https://ctu-geoforall-lab.github.io/qgis-ground-radiation-monitoring-plugin/
@@ -100,3 +100,40 @@ However we do not know how big was the part of the dose obtained during the tran
 - simple text file is enough and universal for mailing or other processing
 - use UTF-8 CR-LF encoding for text outputs for full Windows/Unix compatibility
 - use some predefined description + add values for particular dosimeters - the dosimeter could have just some number and information about pickup station like "Dosimeter no.1, pickup station: Kutná Hora" where the number is automatically generated and pickup station name taken from the static station layer
+
+## Available topics - hardware related (not so much GIS)
+
+
+### 1) easy to use differential GPS system (dGPS/GNSS) for field workers
+
+*Introduction*
+
+Precise GPS systems are complicated to use and mostly require some additional correction data / signal using paid services, often via mobile internet connection. 
+Examples:
+StarFire by John Deere's NavCom
+https://en.wikipedia.org/wiki/StarFire_(navigation_system)
+CZEPOS - for geodetic applications, limited to Czech Republic
+http://czepos.cuzk.cz/
+
+*Possible information resources*
+
+FAIL OF THE WEEK: HOW NOT TO BUILD YOUR OWN DGPS BASE STATION
+by: Christian Trapp
+March 30, 2018
+https://hackaday.com/2018/03/30/fail-of-the-week-how-not-to-build-your-own-dgps-base-station/
+
+
+Nízkonákladová realizace Diferenciální GPS pomocí systému Arduino /
+Low-cost implementation of Differential GPS using Arduino
+
+zdroj:
+https://dspace.cvut.cz/bitstream/handle/10467/68266/F6-DP-2016-Svaton-Martin-Thesis_signed.pdf?sequence=1&isAllowed=y
+
+
+Sub Centimeter GPS With RTKLIB
+https://www.instructables.com/id/Sub-Centimeter-GPS-With-RTKLIB/
+
+MORE THAN GPS: DGPS, MULTI-BAND RTK
+This article gives an introduction for the GPS keywords DGPS, multi-band and RTK and shows performance demos of  some specific RTK GPS systems.
+http://grauonline.de/wordpress/?page_id=1468
+
