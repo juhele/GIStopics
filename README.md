@@ -110,9 +110,11 @@ However we do not know how big was the part of the dose obtained during the tran
 
 Precise GPS systems are complicated to use and mostly require some additional correction data / signal using paid services, often via mobile internet connection. 
 Examples:
-StarFire by John Deere's NavCom
+
+StarFire by John Deere's NavCom 
 https://en.wikipedia.org/wiki/StarFire_(navigation_system)
-CZEPOS - for geodetic applications, limited to Czech Republic
+
+CZEPOS - for geodetic applications, limited to Czech Republic 
 http://czepos.cuzk.cz/
 
 *Idea*
