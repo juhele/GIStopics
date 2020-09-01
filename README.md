@@ -125,8 +125,11 @@ Such system could be independent and usable almost everwhere (there are some res
 
 Data logging automatically after switching on: lat, lon, date, time, GPS epoch, number of satelites, HDOP. Format could be some sort of text file - for example CSV.
 
+*Possible use*
 
-*Possible information resources*
+Detailed radiation measurements, radon surveys, soil and other sampling. Sampling data can be later assigned to the coordinates based on time (written notes in protocols etc.) or visually in GIS software like QGIS.
+
+*Information resources*
 
 FAIL OF THE WEEK: HOW NOT TO BUILD YOUR OWN DGPS BASE STATION
 by: Christian Trapp
