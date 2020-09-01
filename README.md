@@ -115,6 +115,15 @@ https://en.wikipedia.org/wiki/StarFire_(navigation_system)
 CZEPOS - for geodetic applications, limited to Czech Republic
 http://czepos.cuzk.cz/
 
+*Idea*
+
+Looks like it would be possible to develop a custom, tailor-made system based on RTK (Real-time kinematic, see description below) - e.g. two portable outdoor boxes (some rugged plastic case) with antenna, on/off switch and some status LCD or LED lights. One box with tripod mount ("base"), second intended for the moving ("rover") - carried by a person, robot etc. Easy to use - so it could be used by common workers - "just switch on, wait for green and blue light and then go. After your field work switch it off and bring me the boxes so I can download the data.".
+
+Such system could be independent and usable almost everwhere (there are some restricions related to the short-range radio used for communication between the base station and rover but these could be same for the EU).
+
+Data logging automatically after switching on: lat, lon, date, time, GPS epoch, number of satelites, HDOP. Format could be some sort of text file - for example CSV.
+
+
 *Possible information resources*
 
 FAIL OF THE WEEK: HOW NOT TO BUILD YOUR OWN DGPS BASE STATION
