@@ -125,8 +125,6 @@ https://hackaday.com/2018/03/30/fail-of-the-week-how-not-to-build-your-own-dgps-
 
 Nízkonákladová realizace Diferenciální GPS pomocí systému Arduino /
 Low-cost implementation of Differential GPS using Arduino
-
-zdroj:
 https://dspace.cvut.cz/bitstream/handle/10467/68266/F6-DP-2016-Svaton-Martin-Thesis_signed.pdf?sequence=1&isAllowed=y
 
 
