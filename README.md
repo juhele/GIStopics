@@ -135,3 +135,6 @@ MORE THAN GPS: DGPS, MULTI-BAND RTK
 This article gives an introduction for the GPS keywords DGPS, multi-band and RTK and shows performance demos of  some specific RTK GPS systems.
 http://grauonline.de/wordpress/?page_id=1468
 
+Real-time kinematic (RTK) 
+"Real-time kinematic (RTK) positioning is a satellite navigation technique used to enhance the precision of position data derived from satellite-based positioning systems (global navigation satellite systems, GNSS) such as GPS, GLONASS, Galileo, NavIC and BeiDou. It uses measurements of the phase of the signal's carrier wave in addition to the information content of the signal and relies on a single reference station or interpolated virtual station to provide real-time corrections, providing up to centimetre-level accuracy.[1] With reference to GPS in particular, the system is commonly referred to as carrier-phase enhancement, or CPGPS.[2] It has applications in land survey, hydrographic survey, and in unmanned aerial vehicle navigation. "
+https://en.wikipedia.org/wiki/Real-time_kinematic
