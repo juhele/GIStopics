@@ -160,3 +160,14 @@ http://grauonline.de/wordpress/?page_id=1468
 Real-time kinematic (RTK) 
 "Real-time kinematic (RTK) positioning is a satellite navigation technique used to enhance the precision of position data derived from satellite-based positioning systems (global navigation satellite systems, GNSS) such as GPS, GLONASS, Galileo, NavIC and BeiDou. It uses measurements of the phase of the signal's carrier wave in addition to the information content of the signal and relies on a single reference station or interpolated virtual station to provide real-time corrections, providing up to centimetre-level accuracy.[1] With reference to GPS in particular, the system is commonly referred to as carrier-phase enhancement, or CPGPS.[2] It has applications in land survey, hydrographic survey, and in unmanned aerial vehicle navigation. "
 https://en.wikipedia.org/wiki/Real-time_kinematic
+
+W Stempfhuber, M Buchholz: A precise, low-cost RTK GNSS system for UAV applications
+September 2012, ISPRS - International Archives of the Photogrammetry Remote Sensing and Spatial Information Sciences XXXVIII-1/C22(1)
+DOI: 10.5194/isprsarchives-XXXVIII-1-C22-289-2011
+https://www.researchgate.net/publication/268438790_A_precise_low-cost_RTK_GNSS_system_for_UAV_applications
+
+
+Tomoji Takasu, Akio Yasuda: Development of the low-cost RTK-GPS receiver with an open source program package RTKLIB
+January 2009
+https://www.researchgate.net/publication/228811569_Development_of_the_low-cost_RTK-GPS_receiver_with_an_open_source_program_package_RTKLIB
+
