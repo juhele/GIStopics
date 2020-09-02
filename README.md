@@ -171,3 +171,18 @@ Tomoji Takasu, Akio Yasuda: Development of the low-cost RTK-GPS receiver with an
 January 2009
 https://www.researchgate.net/publication/228811569_Development_of_the_low-cost_RTK-GPS_receiver_with_an_open_source_program_package_RTKLIB
 
+Evaluation of Low-Cost, Centimeter-Level Accuracy OEM GNSS Receivers
+Demoz Gebre-Egziabher, Principal Investigator, Department of Aerospace Engineering and Mechanics, University of Minnesota 
+February 2018, Research Project, Final Report 2018-10
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjMiJG9nsrrAhVMAWMBHYMUDLEQFjAHegQIBhAB&url=http%3A%2F%2Fwww.dot.state.mn.us%2Fresearch%2Freports%2F2018%2F201810.pdf&usg=AOvVaw0HTOPIpBMlvD7g4sx5kSgf
+
+John Jackson ; Brian Davis ; Demoz Gebre-Egziabher: A performance assessment of low-cost RTK GNSS receivers
+Published in: 2018 IEEE/ION Position, Location and Navigation Symposium (PLANS)
+Date of Conference: 23-26 April 2018
+Date Added to IEEE Xplore: 07 June 2018
+ISBN Information: Electronic ISSN: 2153-3598
+INSPEC Accession Number: 17823276
+DOI: 10.1109/PLANS.2018.8373438
+Publisher: IEEE
+Conference Location: Monterey, CA, USA
+https://ieeexplore.ieee.org/document/8373438
