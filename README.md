@@ -131,6 +131,7 @@ Data logging automatically after switching on: lat, lon, date, time, GPS epoch, 
 - not dependent on any paid / commercial software or 3rd party online service
 - device controls using hardware buttons / switches, not touch screen (we can provide some help in this area)
 - possibly low power consumption - e.g. not x86 PC but rather something like ARM (Raspberry etc.) or MCU (Arduino etc.) in order to improve battery life
+- OPTIONAL enhancenment: button for creating "bookmarks" - somehow to mark particular positions for easier processing
 
 *Possible use*
 
