@@ -24,7 +24,7 @@ https://ctu-geoforall-lab.github.io/qgis-radiation-reconnaissance-results-plugin
 - rather not Windows-only, but can be linux-only (possible to run using virtual machine)
 - not dependent on any paid / commercial software or 3rd party online service
 - input - depends on further discussion with the developer, we can provide various formats...
-- output can be just CSV
+- output can be just CSV (map display is not necessarily required, data will be further processed)
 
 *Description*
 
