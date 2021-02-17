@@ -101,6 +101,8 @@ However we do not know how big was the part of the dose obtained during the tran
 - use UTF-8 CR-LF encoding for text outputs for full Windows/Unix compatibility
 - use some predefined description + add values for particular dosimeters - the dosimeter could have just some number and information about pickup station like "Dosimeter no.1, pickup station: Kutná Hora" where the number is automatically generated and pickup station name taken from the static station layer
 
+PS: some code from https://ctu-geoforall-lab.github.io/qgis-ground-radiation-monitoring-plugin/ might be useful for reuse here :-)
+
 ## Available topics - hardware related (not so much GIS)
 
 
