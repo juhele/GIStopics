@@ -1,9 +1,20 @@
 
-### 2) Dosimeter pickup plugin for QGIS
+### Dosimeter pickup plugin for QGIS
 
 *Requirements*
 - QGIS 3.x plugin
 - use UTF-8 CR-LF encoding for text outputs for full Windows/Unix compatibility
+
+*Input data*
+
+**Positions of the pickup station**
+- real data published by the State Office for Nuclear Safety (SÚJB) in the "National monitoring program" (Národní program monitorování) documents - available here in Czech
+https://www.sujb.cz/dokumenty-a-publikace/narodni-program-monitorovani
+- the positions are from these tables:
+www.sujb.cz/fileadmin/sujb/docs/dokumenty/NPM/010119/Priloha_c_1_NPM_TABULKY_RADY_B.pdf
+- description of the territorial network of thermoluminescent dosemeters (TLD) here:
+- English: https://www.suro.cz/en/rms/tld
+- Czech: https://www.suro.cz/cz/rms/tld
 
 *Introduction*
 
@@ -23,11 +34,7 @@ As described above, the dosimeters are placed in various locations (e.g. input d
 
 So someone takes a car, picks up all the dosimeters and takes them in a lab to be analysed to get the dose values for each one. 
 
-![Alt text](img_dosimeter_pickup/dosimeter_pickup_schema_001_route_res.png "dosimeter pickup scheme")
-
 However we do not know how big was the part of the dose obtained during the transport - which may not be negligible for emergency situations and is different for each of the dosimeters:
-
-![Alt text](img_dosimeter_pickup/dosimeter_pickup_schema_002_dose_res.png "dosimeter pickup - dose calculation")
 
 **Task 1 - determine car stop at the pickup station**
 - measurement data contain GPS, dose rate values and time (mostly in GPS Epoch format)
