@@ -16,6 +16,19 @@ www.sujb.cz/fileadmin/sujb/docs/dokumenty/NPM/010119/Priloha_c_1_NPM_TABULKY_RAD
 - English: https://www.suro.cz/en/rms/tld
 - Czech: https://www.suro.cz/cz/rms/tld
 
+Format:
+OGC GeoPackage, WGS84 UTM33N coordinate system (EPSG:32633) + lat/lon (EPSG:4326) data in attribute table.
+
+structure
+fid;latitude;longitude;altitude_m;merici_misto
+1;49.7775;14.693056;363;Benešov
+2;49.7775;14.693056;363;Benešov b
+3;49.963969;14.096098;225;Beroun
+4;49.964407;14.095817;225;Beroun b
+5;49.36875;16.643166;294;Blansko
+6;49.432667;13.883028;441;Blatná
+
+
 *Introduction*
 
 The territorial network of thermoluminescent dosimeters (TLD) is a part of the Czech Radiation Monitoring Network. Consists of 180 points with dosimeters - some outdoors, some in buildings.
