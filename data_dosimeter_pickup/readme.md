@@ -7,7 +7,7 @@
 
 *Input data*
 
-**Positions of the pickup station**
+**Positions of the pickup stations**
 - real data published by the State Office for Nuclear Safety (SÚJB) in the "National monitoring program" (Národní program monitorování) documents - available here in Czech
 https://www.sujb.cz/dokumenty-a-publikace/narodni-program-monitorovani
 - the positions are from these tables:
